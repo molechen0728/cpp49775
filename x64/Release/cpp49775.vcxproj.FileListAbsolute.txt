@@ -1,0 +1,16 @@
+E:\data\cpp49775\x64\Release\cpp49775\cpp49775.pri
+E:\data\cpp49775\x64\Release\priconfig.xml
+E:\data\cpp49775\x64\Release\priconfig.xml.intermediate
+E:\data\cpp49775\x64\Release\unfiltered.layout.resfiles
+E:\data\cpp49775\x64\Release\unfiltered.layout.resfiles.intermediate
+E:\data\cpp49775\x64\Release\filtered.layout.resfiles
+E:\data\cpp49775\x64\Release\filtered.layout.resfiles.intermediate
+E:\data\cpp49775\x64\Release\excluded.layout.resfiles
+E:\data\cpp49775\x64\Release\excluded.layout.resfiles.intermediate
+E:\data\cpp49775\x64\Release\resources.resfiles
+E:\data\cpp49775\x64\Release\resources.resfiles.intermediate
+E:\data\cpp49775\x64\Release\pri.resfiles
+E:\data\cpp49775\x64\Release\pri.resfiles.intermediate
+E:\data\cpp49775\x64\Release\qualifiers.txt
+E:\data\cpp49775\x64\Release\qualifiers.txt.intermediate
+E:\data\cpp49775\x64\Release\MultipleQualifiersPerDimensionFound.txt
